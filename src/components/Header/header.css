@@ -1,0 +1,26 @@
+
+.header {
+    width: 1320px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_list {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.site-header {
+    padding: 50px 0;
+}
+
+.header_link {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4000000059604645px;
+    color: #222;
+}

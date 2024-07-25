@@ -1,0 +1,64 @@
+.second-section {
+    width: 1320px;
+    margin-left: 60px;
+    margin-top: 120px;
+}
+
+.main_info {
+    width: 1320px;
+}
+
+.home_page {
+    width: 500px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0.4000000059604645px;
+    color: #242F65;
+    margin-left: 470px;
+}
+
+.description_homepage {
+    width: 803px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4000000059604645px;
+    color: #525665;
+    margin-left: 335px;
+    margin-top: 10px;
+}
+
+.photos {
+    display: flex;
+    padding-top: 60px;
+    margin-left: 60px;
+}
+
+.ux_design {
+    margin-left: 203px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 37.5px;
+    letter-spacing: 0.4000000059604645px;
+    color: #242F65;
+}
+
+.ui_design {
+    margin-left: 207px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 37.5px;
+    letter-spacing: 0.4000000059604645px;
+    color: #242F65;
+}
+
+.left_image {
+    width: 645px;
+    height: 881px;
+}
+
+.right_image {
+    width: 645px;
+    height: 881px;
+}
